@@ -1,0 +1,24 @@
+
+===== SERVER(S) =====
+version: 3.2		        4
+date: 12-07-2026		3
+APPCHKSUM: AF67223H		2
+APP_CHKSUM: AF67223H		2
+
+===== SERVER(M) =====
+version: 5.2		        4
+date: 12/07/2026	    3
+APPCHKSUM: H76G8349		2
+APP_CHKSUM: AF67223H		2
+
+===== PMU(S) =====
+version: 4.3		        4
+date: 12-FEB-2026	    3
+APPCHKSUM: Not Found
+APP_CHKSUM: AF67223H		2
+
+===== PMU(M) =====
+version: 3.2		        4
+date: 12-07-2026		3
+APPCHKSUM: Not Found
+APP_CHKSUM: PY12123H		2

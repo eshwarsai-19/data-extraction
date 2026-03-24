@@ -1,0 +1,13 @@
+<root>
+<mainRE name="SERVER(S)">SERVER\s*\(S\)</mainRE>
+<mainRE name="SERVER(M)">SERVER\s*\(M\)</mainRE>
+<mainRE name="PMU(S)">PMU\s*\(S\)</mainRE>
+<mainRE name="PMU(M)">PMU\s*\(M\)</mainRE>
+<!--  Flexible Extraction Rules  -->
+
+    <subRE name="version">version\s*[:=]?\s*([^\n\r]+)</subRE>
+    <subRE name="date">date\s*[:=]?\s*([^\n\r]+)</subRE>
+    <subRE name="APPCHKSUM">appchksum\s*[:=]?\s*([^\n\r]+)</subRE>
+    <subRE name="APP_CHKSUM">app_chksum\s*[:=]?\s*([^\n\r]+)</subRE>
+</root>
+
